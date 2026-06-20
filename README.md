@@ -77,7 +77,7 @@ When an invalid operation occurs, an appropriate **Error** message is displayed.
 ## Project Structure
 
 ```
-Calculator Project/
+CodeAlpha_Calculator/
 │
 ├── index.html
 ├── Calculator.css
